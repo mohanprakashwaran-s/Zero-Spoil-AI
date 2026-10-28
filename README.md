@@ -77,3 +77,12 @@ plain Flask app with no external services, so it deploys as-is to
 Render, Railway, PythonAnywhere, or Fly.io in a few minutes (set the
 start command to `python backend/app.py`, or `gunicorn app:app` from
 `backend/` for production).
+
+
+## Team & Attribution
+
+- **Project**: Zero-Spoil-AI (Harvest Room — Zero-Waste Grocery Orchestrator)
+- **Source Repository**: [Narumalar2006/Zero-Spoil-AI](https://github.com/Narumalar2006/Zero-Spoil-AI)
+- **Original Author & Core Development**: [Narumalar2006](https://github.com/Narumalar2006)
+- **Contributor & Maintainer**: [Mohan Prakashwaran](https://github.com/mohanprakashwaran-s)
+- **Team**: Zero-Spoil-AI Team
